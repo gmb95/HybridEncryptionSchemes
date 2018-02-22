@@ -1,0 +1,22 @@
+C:\Users\sky12\Desktop\Лабы по Горлатых\Новая папка\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\sky12\Desktop\Лабы по Горлатых\Новая папка\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\sky12\Desktop\Лабы по Горлатых\Новая папка\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\sky12\Desktop\Лабы по Горлатых\Новая папка\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\sky12\Desktop\Лабы по Горлатых\Новая папка\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+C:\Users\sky12\Desktop\Лабы по Горлатых\Новая папка\Lab5\Lab5\obj\Debug\Lab5.HybridForm.resources
+C:\Users\sky12\Desktop\Лабы по Горлатых\Новая папка\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\sky12\Desktop\Лабы по Горлатых\Новая папка\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.Cache
+C:\Users\sky12\Desktop\Лабы по Горлатых\Новая папка\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\sky12\Desktop\Лабы по Горлатых\Новая папка\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\sky12\Desktop\Лабы по Горлатых\Новая папка\Lab5\Lab5\obj\Debug\Lab5.EaMForm.resources
+C:\Users\sky12\Desktop\Лабы по Горлатых\Новая папка\Lab5\Lab5\obj\Debug\Lab5.HybridMForm.resources
+C:\Users\sky12\Desktop\Лабы по Горлатых\Новая папка\Lab5\Lab5\obj\Debug\Lab5.OCBForm.resources
+C:\Users\Galya\Desktop\nnn\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Galya\Desktop\nnn\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\Galya\Desktop\nnn\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\Asus\YandexDisk\8 семестр+НИР\8 семестр\Запеча Лабы\5\5lab\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Asus\YandexDisk\8 семестр+НИР\8 семестр\Запеча Лабы\5\5lab\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\Asus\YandexDisk\8 семестр+НИР\8 семестр\Запеча Лабы\5\5lab\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\Asus\Desktop\5lab\Lab5\Hybrid-Encryption-Schemes\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Asus\Desktop\5lab\Lab5\Hybrid-Encryption-Schemes\Lab5\obj\Debug\Lab5.exe
+C:\Users\Asus\Desktop\5lab\Lab5\Hybrid-Encryption-Schemes\Lab5\obj\Debug\Lab5.pdb

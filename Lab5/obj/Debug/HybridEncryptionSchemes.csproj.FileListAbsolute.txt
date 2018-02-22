@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\5lab\Lab5\Hybrid-Encryption-Schemes\Lab5\obj\Debug\Lab5.EaMForm.resources
+C:\Users\Asus\Desktop\5lab\Lab5\Hybrid-Encryption-Schemes\Lab5\obj\Debug\Lab5.Form1.resources
+C:\Users\Asus\Desktop\5lab\Lab5\Hybrid-Encryption-Schemes\Lab5\obj\Debug\Lab5.HybridForm.resources
+C:\Users\Asus\Desktop\5lab\Lab5\Hybrid-Encryption-Schemes\Lab5\obj\Debug\Lab5.HybridMForm.resources
+C:\Users\Asus\Desktop\5lab\Lab5\Hybrid-Encryption-Schemes\Lab5\obj\Debug\Lab5.OCBForm.resources
+C:\Users\Asus\Desktop\5lab\Lab5\Hybrid-Encryption-Schemes\Lab5\obj\Debug\HybridEncryptionSchemes.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\5lab\Lab5\Hybrid-Encryption-Schemes\Lab5\obj\Debug\HybridEncryptionSchemes.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\5lab\Lab5\Hybrid-Encryption-Schemes\Lab5\bin\Debug\HybridEncryptionSchemes.exe.config
+C:\Users\Asus\Desktop\5lab\Lab5\Hybrid-Encryption-Schemes\Lab5\bin\Debug\HybridEncryptionSchemes.exe
+C:\Users\Asus\Desktop\5lab\Lab5\Hybrid-Encryption-Schemes\Lab5\bin\Debug\HybridEncryptionSchemes.pdb
+C:\Users\Asus\Desktop\5lab\Lab5\Hybrid-Encryption-Schemes\Lab5\obj\Debug\HybridEncryptionSchemes.Properties.Resources.resources
+C:\Users\Asus\Desktop\5lab\Lab5\Hybrid-Encryption-Schemes\Lab5\obj\Debug\HybridEncryptionSchemes.exe
+C:\Users\Asus\Desktop\5lab\Lab5\Hybrid-Encryption-Schemes\Lab5\obj\Debug\HybridEncryptionSchemes.pdb
